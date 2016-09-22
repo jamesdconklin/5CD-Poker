@@ -1,0 +1,5 @@
+gem 'rspec-core'
+gem 'rspec'
+gem 'pry'
+gem 'byebug'
+gem 'colorize'
